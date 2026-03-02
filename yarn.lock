@@ -815,6 +815,7 @@ __metadata:
     "@vitejs/plugin-react": "npm:^5.1.4"
     react: "npm:^19.2.4"
     react-dom: "npm:^19.2.4"
+    todomvc-app-css: "npm:^2.4.3"
     vite: "npm:^7.3.1"
   languageName: unknown
   linkType: soft
@@ -1550,6 +1551,13 @@ __metadata:
     fdir: "npm:^6.5.0"
     picomatch: "npm:^4.0.3"
   checksum: 10c0/869c31490d0d88eedb8305d178d4c75e7463e820df5a9b9d388291daf93e8b1eb5de1dad1c1e139767e4269fe75f3b10d5009b2cc14db96ff98986920a186844
+  languageName: node
+  linkType: hard
+
+"todomvc-app-css@npm:^2.4.3":
+  version: 2.4.3
+  resolution: "todomvc-app-css@npm:2.4.3"
+  checksum: 10c0/0f7516a7fdc44ebf93e959bdb3e85294e8be1282438a586ea39f5b15dc552c7d543c168d09ab8b5fcc6717485e1e1120c0890a8b4a2c54fc6a0a7fb19b00baf0
   languageName: node
   linkType: hard
 
