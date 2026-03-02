@@ -813,6 +813,7 @@ __metadata:
   resolution: "claude-todomvc@workspace:."
   dependencies:
     "@vitejs/plugin-react": "npm:^5.1.4"
+    jotai: "npm:^2.18.0"
     react: "npm:^19.2.4"
     react-dom: "npm:^19.2.4"
     todomvc-app-css: "npm:^2.4.3"
@@ -1075,6 +1076,27 @@ __metadata:
   version: 4.0.0
   resolution: "isexe@npm:4.0.0"
   checksum: 10c0/5884815115bceac452877659a9c7726382531592f43dc29e5d48b7c4100661aed54018cb90bd36cb2eaeba521092570769167acbb95c18d39afdccbcca06c5ce
+  languageName: node
+  linkType: hard
+
+"jotai@npm:^2.18.0":
+  version: 2.18.0
+  resolution: "jotai@npm:2.18.0"
+  peerDependencies:
+    "@babel/core": ">=7.0.0"
+    "@babel/template": ">=7.0.0"
+    "@types/react": ">=17.0.0"
+    react: ">=17.0.0"
+  peerDependenciesMeta:
+    "@babel/core":
+      optional: true
+    "@babel/template":
+      optional: true
+    "@types/react":
+      optional: true
+    react:
+      optional: true
+  checksum: 10c0/df40027ad6deef6b61e159ce311bc39bf7b3e5ee33b3289c94d3a6d55c552cc3bcf4fb2f7ad41d2f23f1ec10d3a511183bd3de6c89590e1391fa3e8d31610e41
   languageName: node
   linkType: hard
 
